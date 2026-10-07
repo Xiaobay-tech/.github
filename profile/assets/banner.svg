@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none">
+  <title>Xiaobay-tech — From Vision to Devices.</title>
+  <desc>A navy banner with cyan detection frames and circuit paths connecting computer vision to an edge processor.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#091321"/><stop offset="1" stop-color="#102B42"/></linearGradient>
+    <linearGradient id="accent" x1="64" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#57E6D2"/><stop offset="1" stop-color="#65AFFF"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#8EC9EA" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1280" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="20" fill="url(#grid)"/>
+  <rect x="64" y="62" width="32" height="4" rx="2" fill="#57E6D2"/>
+  <text x="108" y="70" fill="#8CA7BD" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3">VISION / ENGINEERING / OPEN SOURCE</text>
+  <text x="60" y="162" fill="#F1F7FC" font-family="Segoe UI,Arial,sans-serif" font-size="68" font-weight="700" letter-spacing="-2">Xiaobay-tech</text>
+  <text x="64" y="209" fill="#6EE7D7" font-family="Segoe UI,Arial,sans-serif" font-size="26" letter-spacing="1">From Vision to Devices.</text>
+  <path d="M64 253H568" stroke="#294356"/>
+  <text x="64" y="290" fill="#A4B9CC" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2">YOLO · ANDROID · C++ · EMBEDDED</text>
+  <g stroke="url(#accent)" stroke-width="2">
+    <path d="M758 96H730V124M868 96H896V124M730 234V262H758M868 262H896V234" stroke-width="3"/>
+    <rect x="758" y="126" width="110" height="106" rx="8" fill="#0E2739" stroke-opacity=".4"/>
+    <path d="m772 215 32-60 42 51-74 9Z" stroke-opacity=".65"/>
+    <circle cx="804" cy="155" r="5" fill="#57E6D2"/>
+    <circle cx="846" cy="206" r="5" fill="#65AFFF"/>
+    <circle cx="772" cy="215" r="5" fill="#57E6D2"/>
+    <path d="M896 161H943L967 137H1031M896 194H972L996 218H1031" stroke-opacity=".75"/>
+    <rect x="1031" y="115" width="118" height="126" rx="14" fill="#0C2032"/>
+    <rect x="1054" y="140" width="72" height="76" rx="6" stroke-opacity=".4"/>
+    <path d="M1055 103V115M1079 103V115M1103 103V115M1127 103V115M1055 241V253M1079 241V253M1103 241V253M1127 241V253M1019 155H1031M1019 179H1031M1019 203H1031M1149 155H1161M1149 179H1161M1149 203H1161"/>
+    <path d="M1161 179H1200V83H1122" stroke-opacity=".3"/>
+    <circle cx="1122" cy="83" r="4" fill="#65AFFF"/>
+  </g>
+  <text x="1090" y="185" text-anchor="middle" fill="#DBF7F6" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="2">EDGE</text>
+  <text x="812" y="298" text-anchor="middle" fill="#8CA7BD" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3">PERCEPTION</text>
+  <text x="1090" y="298" text-anchor="middle" fill="#8CA7BD" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3">DEPLOYMENT</text>
+  <rect x="64" y="341" width="1152" height="2" rx="1" fill="url(#accent)" opacity=".45"/>
+</svg>
+

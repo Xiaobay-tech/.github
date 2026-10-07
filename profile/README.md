@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/hero-v2.png" width="100%" alt="Xiaobay-tech — From Vision to Devices. 镜头与芯片连接视觉算法和端侧设备。" />
+  <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/hero-v4.png" width="100%" alt="Xiaobay-tech — From Vision to Devices. 玻璃光学装置与精密金属底座。" />
 </p>
 
 <h2 align="center">让视觉算法走向真实设备</h2>
@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="46%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/vision-v2.png" width="100%" alt="光学镜头、分层镜片与目标检测框" />
+      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/vision-v4.png" width="100%" alt="精密金属视觉传感模块与磨砂玻璃立方体" />
     </td>
     <td width="54%" valign="middle">
       <p><sub>01 &nbsp; / &nbsp; COMPUTER VISION</sub></p>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td width="46%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/device-v2.png" width="100%" alt="手机与处理器相连，展示端侧计算的概念" />
+      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/device-v4.png" width="100%" alt="手机与嵌有芯片的金属底座，展示端侧计算的概念" />
     </td>
     <td width="54%" valign="middle">
       <p><sub>02 &nbsp; / &nbsp; ON-DEVICE ENGINEERING</sub></p>
@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td width="46%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/embedded-v2.png" width="100%" alt="嵌入式开发板连接传感器与网络节点" />
+      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/embedded-v4.png" width="100%" alt="带有金属散热盖、连接器和青色状态灯的嵌入式计算模块" />
     </td>
     <td width="54%" valign="middle">
       <p><sub>03 &nbsp; / &nbsp; EMBEDDED &amp; OPEN SOURCE</sub></p>
@@ -101,4 +101,3 @@ Xiaobay-tech focuses on computer vision and on-device deployment, sharing engine
 <br />
 
 <p align="center"><sub>XIAOBAY-TECH &nbsp; / &nbsp; FROM VISION TO DEVICES.</sub></p>
-

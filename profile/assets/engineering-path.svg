@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="208" viewBox="0 0 1080 208" fill="none">
+<title>从视觉算法到推理部署，再到端侧应用</title>
+<desc>三个阶段：视觉算法与模型训练、推理优化与部署、Android 和嵌入式应用。</desc>
+<rect width="1080" height="208" rx="16" fill="#0B1929"/>
+<path d="M48 174H1032" stroke="#203B50"/>
+<g font-family="Segoe UI,Arial,sans-serif">
+<g transform="translate(42 36)">
+<rect width="36" height="36" rx="10" fill="#16394A"/><circle cx="18" cy="18" r="9" stroke="#64DED7" stroke-width="1.5"/><circle cx="18" cy="18" r="3" fill="#64DED7"/>
+<text x="52" y="15" fill="#73DCD9" font-size="12" letter-spacing="2">01 / PERCEPTION</text>
+<text x="0" y="81" fill="#EDF7FC" font-size="25" font-weight="600">Vision &amp; Models</text>
+<text x="0" y="111" fill="#9FB8CD" font-size="15">Detection · Recognition · Training</text>
+</g>
+<g transform="translate(404 36)">
+<rect width="36" height="36" rx="10" fill="#16394A"/><path d="m20 7-10 13h8l-2 10 11-15h-9l2-8Z" stroke="#64DED7" stroke-width="1.5" stroke-linejoin="round"/>
+<text x="52" y="15" fill="#73DCD9" font-size="12" letter-spacing="2">02 / OPTIMIZATION</text>
+<text x="0" y="81" fill="#EDF7FC" font-size="25" font-weight="600">Inference &amp; Runtime</text>
+<text x="0" y="111" fill="#9FB8CD" font-size="15">Performance · Integration · C++</text>
+</g>
+<g transform="translate(766 36)">
+<rect width="36" height="36" rx="10" fill="#16394A"/><rect x="10" y="7" width="16" height="22" rx="3" stroke="#64DED7" stroke-width="1.5"/><path d="M15 25h6" stroke="#64DED7" stroke-width="1.5"/>
+<text x="52" y="15" fill="#73DCD9" font-size="12" letter-spacing="2">03 / APPLICATION</text>
+<text x="0" y="81" fill="#EDF7FC" font-size="25" font-weight="600">Real-world Devices</text>
+<text x="0" y="111" fill="#9FB8CD" font-size="15">Android · Embedded · Edge</text>
+</g></g>
+<g stroke="#4B8094" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M332 103h30m-6-6 6 6-6 6M694 103h30m-6-6 6 6-6 6"/></g>
+<g fill="#5CDBD5"><circle cx="42" cy="174" r="3"/><circle cx="404" cy="174" r="3"/><circle cx="766" cy="174" r="3"/></g>
+</svg>
+

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/banner.svg" width="100%" alt="Xiaobay-tech — From Vision to Devices." />
+  <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/hero-v2.png" width="100%" alt="Xiaobay-tech — From Vision to Devices. 镜头与芯片连接视觉算法和端侧设备。" />
 </p>
 
 <h1 align="center">让视觉算法走向真实设备</h1>
@@ -25,10 +25,31 @@
 
 ### 探索方向
 
-| ◎ 视觉与 YOLO | ◇ Android 与 C++ | ⌘ 嵌入式与开源工具 |
-| :--- | :--- | :--- |
-| 从图像理解到目标检测 | 从算法能力到端侧应用 | 从边缘设备到可复用工具 |
-| 检测与识别、模型训练、部署实践 | 多媒体处理、高性能推理、底层能力 | 资源受限场景、设备集成、开发工具 |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/vision-v2.png" width="100%" alt="光学镜头与目标检测框，代表计算机视觉方向" />
+      <h3>01 / 视觉与 YOLO</h3>
+      <p><sub>COMPUTER VISION</sub></p>
+      <p><strong>从图像理解到目标检测</strong></p>
+      <p>检测与识别、模型训练、部署实践。</p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/device-v2.png" width="100%" alt="手机与处理器通过电路相连，代表端侧开发方向" />
+      <h3>02 / Android 与 C++</h3>
+      <p><sub>ON-DEVICE ENGINEERING</sub></p>
+      <p><strong>从算法能力到端侧应用</strong></p>
+      <p>多媒体处理、高性能推理、底层能力。</p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/embedded-v2.png" width="100%" alt="嵌入式开发板连接传感器与网络节点" />
+      <h3>03 / 嵌入式与工具</h3>
+      <p><sub>EMBEDDED &amp; OPEN SOURCE</sub></p>
+      <p><strong>从边缘设备到可复用工具</strong></p>
+      <p>资源受限场景、设备集成、开发工具。</p>
+    </td>
+  </tr>
+</table>
 
 ### 从原型到落地
 
@@ -64,4 +85,3 @@ Xiaobay-tech focuses on computer vision and on-device deployment, sharing engine
 <p align="center">
   <sub>Xiaobay-tech · Vision / Engineering / Open Source</sub>
 </p>
-

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/hero-v4.png" width="100%" alt="Xiaobay-tech — From Vision to Devices. 玻璃光学装置与精密金属底座。" />
+  <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/hero-v5.svg" width="100%" alt="Xiaobay-tech — From Vision to Devices. 以视觉、代码与芯片几何图形组成的品牌横幅。" />
 </p>
 
 <h2 align="center">让视觉算法走向真实设备</h2>
@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="46%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/vision-v4.png" width="100%" alt="精密金属视觉传感模块与磨砂玻璃立方体" />
+      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/vision-v5.svg" width="100%" alt="矢量检测画布：几何目标、选框与标注" />
     </td>
     <td width="54%" valign="middle">
       <p><sub>01 &nbsp; / &nbsp; COMPUTER VISION</sub></p>
@@ -36,7 +36,7 @@
   </tr>
   <tr>
     <td width="46%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/device-v4.png" width="100%" alt="手机与嵌有芯片的金属底座，展示端侧计算的概念" />
+      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/device-v5.svg" width="100%" alt="矢量代码窗口与移动应用界面，示意端侧推理流程" />
     </td>
     <td width="54%" valign="middle">
       <p><sub>02 &nbsp; / &nbsp; ON-DEVICE ENGINEERING</sub></p>
@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td width="46%" valign="middle">
-      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/embedded-v4.png" width="100%" alt="带有金属散热盖、连接器和青色状态灯的嵌入式计算模块" />
+      <img src="https://raw.githubusercontent.com/Xiaobay-tech/.github/main/profile/assets/embedded-v5.svg" width="100%" alt="矢量嵌入式模块：计算芯片、引脚与外围接口" />
     </td>
     <td width="54%" valign="middle">
       <p><sub>03 &nbsp; / &nbsp; EMBEDDED &amp; OPEN SOURCE</sub></p>
